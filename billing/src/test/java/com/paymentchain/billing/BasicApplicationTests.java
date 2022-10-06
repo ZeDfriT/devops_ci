@@ -13,8 +13,8 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-				String meessages_bg= "default message cambio11";
-				Assert.assertNotNull(meesage);
+				String meessage= "default message cambio test devops";
+				Assert.assertNotNull(meessage);
 	}
 
 }
